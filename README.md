@@ -1,6 +1,6 @@
 # Discord VC Joiner
 
-use directly -> 
+use directly -> https://discord-vc-joiner-git-main-idkconsoles-projects.vercel.app
 
 A fast and efficient Discord Voice Channel joiner with support for multiple tokens and streaming capabilities.
 
