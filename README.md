@@ -1,5 +1,7 @@
 # Discord VC Joiner
 
+use directly -> 
+
 A fast and efficient Discord Voice Channel joiner with support for multiple tokens and streaming capabilities.
 
 ## Features
@@ -10,7 +12,7 @@ A fast and efficient Discord Voice Channel joiner with support for multiple toke
 - Beautiful UI
 
 ## Usage
-1. Open `index.htm` in your browser
+1. Open `index.html` in your browser
 2. Add your tokens (single or bulk upload)
 3. Enter Guild ID and Channel ID
 4. Configure voice settings
